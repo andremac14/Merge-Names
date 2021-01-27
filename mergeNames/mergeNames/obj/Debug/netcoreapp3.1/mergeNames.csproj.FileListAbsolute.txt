@@ -1,0 +1,13 @@
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.exe
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.deps.json
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.runtimeconfig.json
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.runtimeconfig.dev.json
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.dll
+C:\Users\andres\Desktop\mergeNames\mergeNames\bin\Debug\netcoreapp3.1\mergeNames.pdb
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.csprojAssemblyReference.cache
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.AssemblyInfoInputs.cache
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.AssemblyInfo.cs
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.csproj.CoreCompileInputs.cache
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.dll
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.pdb
+C:\Users\andres\Desktop\mergeNames\mergeNames\obj\Debug\netcoreapp3.1\mergeNames.genruntimeconfig.cache
